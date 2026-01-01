@@ -1,0 +1,9 @@
+{
+  "artistUrl": "https://create.roblox.com/store/audio/discoverNewAudio/distrokid-hits?artistName=SAD+Velvet&pageNumber=0",
+  "webhookUrl": "https://discord.com/api/webhooks/XXXXXXXXX/XXXXXXXXXXXXXXXXXXXXXXXX",
+  "pollIntervalSeconds": 60,
+  "pagesToCheck": 3,
+  "sendExistingOnFirstRun": true,
+  "userAgent": "RobloxArtistMonitor/1.0 (+https://github.com/yourname/roblox-artist-monitor)",
+  "maxFileSizeMB": 8
+}

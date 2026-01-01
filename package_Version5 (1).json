@@ -1,0 +1,15 @@
+{
+  "name": "roblox-artist-monitor",
+  "version": "1.1.0",
+  "description": "Monitor Roblox artist pages for audio uploads and send notifications to a Discord webhook (with audio attachments)",
+  "main": "monitor.js",
+  "author": "generated-by-copilot",
+  "license": "MIT",
+  "scripts": {
+    "start": "node monitor.js"
+  },
+  "dependencies": {
+    "axios": "^1.4.0",
+    "form-data": "^4.0.0"
+  }
+}

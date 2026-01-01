@@ -1,0 +1,5 @@
+node_modules/
+seen.json
+config.json
+.env
+.DS_Store
