@@ -10,7 +10,7 @@ from discord import app_commands
 from discord.ext import commands
 
 # ================= CONFIG =================
-TOKEN = "MTQ1Njc3NTE1NDE1NDYwNjcyNQ.GtwZBO.c10z2PHo4Y_ww2uGAc9E_kxmCOtUlELtTQCuTI"
+TOKEN = ""
 CHANNEL_NAME = "free-logger-stuff-shows-here"
 
 PROFILE_DIR = "roblox_profile"
@@ -234,3 +234,4 @@ async def list_artists(interaction: discord.Interaction):
 
 # ---------------- RUN ----------------
 bot.run(TOKEN)
+
